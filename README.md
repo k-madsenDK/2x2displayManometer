@@ -11,3 +11,4 @@ the vismen() is showing aktuel data usage commit it out when not debugging
 Ihave dicovered major memory leaks with the print() command and the 
 tft2.jpg("img/thunder240.jpg",0,0,st7789.FAST) command
 
+Sorry 10240 and 11240 has to be renamed a240 and b240
